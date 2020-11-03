@@ -1,1 +1,1 @@
-Hello.. This file contains application Deployment logic.
+Hello.. This file is related to Application Deployment logic.
